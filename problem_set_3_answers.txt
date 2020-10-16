@@ -1,0 +1,2212 @@
+QUESTION 1
+---------------------------------------------------------------------------------------------
+The maximum water level is 6.647 and it occurred on 2018-10-10 18:06.
+
+
+QUESTION 2
+---------------------------------------------------------------------------------------------
+The maximum water level is 6.647 and it occurred on 2018-10-10 18:06.
+The minimum water level is 1.621 and it occurred on 2018-10-11 15:36.
+The average water level is 2.9823232044198904.
+
+
+QUESTION 3
+---------------------------------------------------------------------------------------------
+The maximum change in water level is 0.6400000000000006 and it occurred on 2018-10-10 17:42
+
+
+QUESTION 4
+---------------------------------------------------------------------------------------------
+Data reading on 2018-10-09 00:00 is 2.421.
+
+
+Data reading on 2018-10-09 00:06 is 2.454.
+
+
+Data reading on 2018-10-09 00:12 is 2.461.
+
+
+Data reading on 2018-10-09 00:18 is 2.444.
+
+
+Data reading on 2018-10-09 00:24 is 2.431.
+
+
+Data reading on 2018-10-09 00:30 is 2.421.
+
+
+Data reading on 2018-10-09 00:36 is 2.411.
+
+
+Data reading on 2018-10-09 00:42 is 2.375.
+
+
+Data reading on 2018-10-09 00:48 is 2.388.
+
+
+Data reading on 2018-10-09 00:54 is 2.365.
+
+
+Data reading on 2018-10-09 01:00 is 2.365.
+
+
+Data reading on 2018-10-09 01:06 is 2.346.
+
+
+Data reading on 2018-10-09 01:12 is 2.352.
+
+
+Data reading on 2018-10-09 01:18 is 2.349.
+
+
+Data reading on 2018-10-09 01:24 is 2.388.
+
+
+Data reading on 2018-10-09 01:30 is 2.382.
+
+
+Data reading on 2018-10-09 01:36 is 2.448.
+
+
+Data reading on 2018-10-09 01:42 is 2.431.
+
+
+Data reading on 2018-10-09 01:48 is 2.467.
+
+
+Data reading on 2018-10-09 01:54 is 2.487.
+
+
+Data reading on 2018-10-09 02:00 is 2.536.
+
+
+Data reading on 2018-10-09 02:06 is 2.559.
+
+
+Data reading on 2018-10-09 02:12 is 2.592.
+
+
+Data reading on 2018-10-09 02:18 is 2.598.
+
+
+Data reading on 2018-10-09 02:24 is 2.602.
+
+
+Data reading on 2018-10-09 02:30 is 2.608.
+
+
+Data reading on 2018-10-09 02:36 is 2.608.
+
+
+Data reading on 2018-10-09 02:42 is 2.618.
+
+
+Data reading on 2018-10-09 02:48 is 2.631.
+
+
+Data reading on 2018-10-09 02:54 is 2.612.
+
+
+Data reading on 2018-10-09 03:00 is 2.605.
+
+
+Data reading on 2018-10-09 03:06 is 2.602.
+
+
+Data reading on 2018-10-09 03:12 is 2.585.
+
+
+Data reading on 2018-10-09 03:18 is 2.598.
+
+
+Data reading on 2018-10-09 03:24 is 2.612.
+
+
+Data reading on 2018-10-09 03:30 is 2.595.
+
+
+Data reading on 2018-10-09 03:36 is 2.602.
+
+
+Data reading on 2018-10-09 03:42 is 2.608.
+
+
+Data reading on 2018-10-09 03:48 is 2.605.
+
+
+Data reading on 2018-10-09 03:54 is 2.602.
+
+
+Data reading on 2018-10-09 04:00 is 2.635.
+
+
+Data reading on 2018-10-09 04:06 is 2.651.
+
+
+Data reading on 2018-10-09 04:12 is 2.664.
+
+
+Data reading on 2018-10-09 04:18 is 2.697.
+
+
+Data reading on 2018-10-09 04:24 is 2.677.
+
+
+Data reading on 2018-10-09 04:30 is 2.713.
+
+
+Data reading on 2018-10-09 04:36 is 2.69.
+
+
+Data reading on 2018-10-09 04:42 is 2.713.
+
+
+Data reading on 2018-10-09 04:48 is 2.697.
+
+
+Data reading on 2018-10-09 04:54 is 2.71.
+
+
+Data reading on 2018-10-09 05:00 is 2.697.
+
+
+Data reading on 2018-10-09 05:06 is 2.703.
+
+
+Data reading on 2018-10-09 05:12 is 2.684.
+
+
+Data reading on 2018-10-09 05:18 is 2.694.
+
+
+Data reading on 2018-10-09 05:24 is 2.671.
+
+
+Data reading on 2018-10-09 05:30 is 2.667.
+
+
+Data reading on 2018-10-09 05:36 is 2.648.
+
+
+Data reading on 2018-10-09 05:42 is 2.644.
+
+
+Data reading on 2018-10-09 05:48 is 2.638.
+
+
+Data reading on 2018-10-09 05:54 is 2.625.
+
+
+Data reading on 2018-10-09 06:00 is 2.628.
+
+
+Data reading on 2018-10-09 06:06 is 2.628.
+
+
+Data reading on 2018-10-09 06:12 is 2.625.
+
+
+Data reading on 2018-10-09 06:18 is 2.621.
+
+
+Data reading on 2018-10-09 06:24 is 2.608.
+
+
+Data reading on 2018-10-09 06:30 is 2.618.
+
+
+Data reading on 2018-10-09 06:36 is 2.595.
+
+
+Data reading on 2018-10-09 06:42 is 2.589.
+
+
+Data reading on 2018-10-09 06:48 is 2.562.
+
+
+Data reading on 2018-10-09 06:54 is 2.559.
+
+
+Data reading on 2018-10-09 07:00 is 2.546.
+
+
+Data reading on 2018-10-09 07:06 is 2.539.
+
+
+Data reading on 2018-10-09 07:12 is 2.523.
+
+
+Data reading on 2018-10-09 07:18 is 2.5.
+
+
+Data reading on 2018-10-09 07:24 is 2.497.
+
+
+Data reading on 2018-10-09 07:30 is 2.461.
+
+
+Data reading on 2018-10-09 07:36 is 2.448.
+
+
+Data reading on 2018-10-09 07:42 is 2.415.
+
+
+Data reading on 2018-10-09 07:48 is 2.408.
+
+
+Data reading on 2018-10-09 07:54 is 2.375.
+
+
+Data reading on 2018-10-09 08:00 is 2.379.
+
+
+Data reading on 2018-10-09 08:06 is 2.359.
+
+
+Data reading on 2018-10-09 08:12 is 2.343.
+
+
+Data reading on 2018-10-09 08:18 is 2.356.
+
+
+Data reading on 2018-10-09 08:24 is 2.349.
+
+
+Data reading on 2018-10-09 08:30 is 2.346.
+
+
+Data reading on 2018-10-09 08:36 is 2.346.
+
+
+Data reading on 2018-10-09 08:42 is 2.346.
+
+
+Data reading on 2018-10-09 08:48 is 2.349.
+
+
+Data reading on 2018-10-09 08:54 is 2.339.
+
+
+Data reading on 2018-10-09 09:00 is 2.349.
+
+
+Data reading on 2018-10-09 09:06 is 2.323.
+
+
+Data reading on 2018-10-09 09:12 is 2.323.
+
+
+Data reading on 2018-10-09 09:18 is 2.306.
+
+
+Data reading on 2018-10-09 09:24 is 2.313.
+
+
+Data reading on 2018-10-09 09:30 is 2.303.
+
+
+Data reading on 2018-10-09 09:36 is 2.3.
+
+
+Data reading on 2018-10-09 09:42 is 2.3.
+
+
+Data reading on 2018-10-09 09:48 is 2.3.
+
+
+Data reading on 2018-10-09 09:54 is 2.303.
+
+
+Data reading on 2018-10-09 10:00 is 2.306.
+
+
+Data reading on 2018-10-09 10:06 is 2.267.
+
+
+Data reading on 2018-10-09 10:12 is 2.267.
+
+
+Data reading on 2018-10-09 10:18 is 2.228.
+
+
+Data reading on 2018-10-09 10:24 is 2.234.
+
+
+Data reading on 2018-10-09 10:30 is 2.215.
+
+
+Data reading on 2018-10-09 10:36 is 2.224.
+
+
+Data reading on 2018-10-09 10:42 is 2.215.
+
+
+Data reading on 2018-10-09 10:48 is 2.231.
+
+
+Data reading on 2018-10-09 10:54 is 2.247.
+
+
+Data reading on 2018-10-09 11:00 is 2.254.
+
+
+Data reading on 2018-10-09 11:06 is 2.257.
+
+
+Data reading on 2018-10-09 11:12 is 2.264.
+
+
+Data reading on 2018-10-09 11:18 is 2.29.
+
+
+Data reading on 2018-10-09 11:24 is 2.287.
+
+
+Data reading on 2018-10-09 11:30 is 2.3.
+
+
+Data reading on 2018-10-09 11:36 is 2.32.
+
+
+Data reading on 2018-10-09 11:42 is 2.31.
+
+
+Data reading on 2018-10-09 11:48 is 2.333.
+
+
+Data reading on 2018-10-09 11:54 is 2.339.
+
+
+Data reading on 2018-10-09 12:00 is 2.362.
+
+
+Data reading on 2018-10-09 12:06 is 2.365.
+
+
+Data reading on 2018-10-09 12:12 is 2.385.
+
+
+Data reading on 2018-10-09 12:18 is 2.385.
+
+
+Data reading on 2018-10-09 12:24 is 2.408.
+
+
+Data reading on 2018-10-09 12:30 is 2.408.
+
+
+Data reading on 2018-10-09 12:36 is 2.428.
+
+
+Data reading on 2018-10-09 12:42 is 2.418.
+
+
+Data reading on 2018-10-09 12:48 is 2.425.
+
+
+Data reading on 2018-10-09 12:54 is 2.434.
+
+
+Data reading on 2018-10-09 13:00 is 2.441.
+
+
+Data reading on 2018-10-09 13:06 is 2.431.
+
+
+Data reading on 2018-10-09 13:12 is 2.457.
+
+
+Data reading on 2018-10-09 13:18 is 2.467.
+
+
+Data reading on 2018-10-09 13:24 is 2.497.
+
+
+Data reading on 2018-10-09 13:30 is 2.493.
+
+
+Data reading on 2018-10-09 13:36 is 2.5.
+
+
+Data reading on 2018-10-09 13:42 is 2.52.
+
+
+Data reading on 2018-10-09 13:48 is 2.53.
+
+
+Data reading on 2018-10-09 13:54 is 2.533.
+
+
+Data reading on 2018-10-09 14:00 is 2.559.
+
+
+Data reading on 2018-10-09 14:06 is 2.556.
+
+
+Data reading on 2018-10-09 14:12 is 2.582.
+
+
+Data reading on 2018-10-09 14:18 is 2.598.
+
+
+Data reading on 2018-10-09 14:24 is 2.618.
+
+
+Data reading on 2018-10-09 14:30 is 2.628.
+
+
+Data reading on 2018-10-09 14:36 is 2.628.
+
+
+Data reading on 2018-10-09 14:42 is 2.657.
+
+
+Data reading on 2018-10-09 14:48 is 2.651.
+
+
+Data reading on 2018-10-09 14:54 is 2.68.
+
+
+Data reading on 2018-10-09 15:00 is 2.68.
+
+
+Data reading on 2018-10-09 15:06 is 2.703.
+
+
+Data reading on 2018-10-09 15:12 is 2.723.
+
+
+Data reading on 2018-10-09 15:18 is 2.723.
+
+
+Data reading on 2018-10-09 15:24 is 2.759.
+
+
+Data reading on 2018-10-09 15:30 is 2.776.
+
+
+Data reading on 2018-10-09 15:36 is 2.822.
+
+
+Data reading on 2018-10-09 15:42 is 2.825.
+
+
+Data reading on 2018-10-09 15:48 is 2.835.
+
+
+Data reading on 2018-10-09 15:54 is 2.854.
+
+
+Data reading on 2018-10-09 16:00 is 2.854.
+
+
+Data reading on 2018-10-09 16:06 is 2.877.
+
+
+Data reading on 2018-10-09 16:12 is 2.897.
+
+
+Data reading on 2018-10-09 16:18 is 2.913.
+
+
+Data reading on 2018-10-09 16:24 is 2.907.
+
+
+Data reading on 2018-10-09 16:30 is 2.923.
+
+
+Data reading on 2018-10-09 16:36 is 2.923.
+
+
+Data reading on 2018-10-09 16:42 is 2.94.
+
+
+Data reading on 2018-10-09 16:48 is 2.927.
+
+
+Data reading on 2018-10-09 16:54 is 2.956.
+
+
+Data reading on 2018-10-09 17:00 is 2.949.
+
+
+Data reading on 2018-10-09 17:06 is 2.969.
+
+
+Data reading on 2018-10-09 17:12 is 2.953.
+
+
+Data reading on 2018-10-09 17:18 is 2.959.
+
+
+Data reading on 2018-10-09 17:24 is 2.963.
+
+
+Data reading on 2018-10-09 17:30 is 2.959.
+
+
+Data reading on 2018-10-09 17:36 is 2.986.
+
+
+Data reading on 2018-10-09 17:42 is 2.982.
+
+
+Data reading on 2018-10-09 17:48 is 2.992.
+
+
+Data reading on 2018-10-09 17:54 is 2.992.
+
+
+Data reading on 2018-10-09 18:00 is 3.025.
+
+
+Data reading on 2018-10-09 18:06 is 3.015.
+
+
+Data reading on 2018-10-09 18:12 is 3.018.
+
+
+Data reading on 2018-10-09 18:18 is 3.022.
+
+
+Data reading on 2018-10-09 18:24 is 3.031.
+
+
+Data reading on 2018-10-09 18:30 is 3.028.
+
+
+Data reading on 2018-10-09 18:36 is 3.025.
+
+
+Data reading on 2018-10-09 18:42 is 3.035.
+
+
+Data reading on 2018-10-09 18:48 is 3.035.
+
+
+Data reading on 2018-10-09 18:54 is 3.048.
+
+
+Data reading on 2018-10-09 19:00 is 3.035.
+
+
+Data reading on 2018-10-09 19:06 is 3.041.
+
+
+Data reading on 2018-10-09 19:12 is 3.045.
+
+
+Data reading on 2018-10-09 19:18 is 3.045.
+
+
+Data reading on 2018-10-09 19:24 is 3.058.
+
+
+Data reading on 2018-10-09 19:30 is 3.058.
+
+
+Data reading on 2018-10-09 19:36 is 3.048.
+
+
+Data reading on 2018-10-09 19:42 is 3.045.
+
+
+Data reading on 2018-10-09 19:48 is 3.018.
+
+
+Data reading on 2018-10-09 19:54 is 3.015.
+
+
+Data reading on 2018-10-09 20:00 is 3.018.
+
+
+Data reading on 2018-10-09 20:06 is 2.999.
+
+
+Data reading on 2018-10-09 20:12 is 3.009.
+
+
+Data reading on 2018-10-09 20:18 is 3.005.
+
+
+Data reading on 2018-10-09 20:24 is 2.999.
+
+
+Data reading on 2018-10-09 20:30 is 3.002.
+
+
+Data reading on 2018-10-09 20:36 is 3.002.
+
+
+Data reading on 2018-10-09 20:42 is 2.992.
+
+
+Data reading on 2018-10-09 20:48 is 2.999.
+
+
+Data reading on 2018-10-09 20:54 is 3.009.
+
+
+Data reading on 2018-10-09 21:00 is 3.005.
+
+
+Data reading on 2018-10-09 21:06 is 2.976.
+
+
+Data reading on 2018-10-09 21:12 is 2.995.
+
+
+Data reading on 2018-10-09 21:18 is 2.959.
+
+
+Data reading on 2018-10-09 21:24 is 2.969.
+
+
+Data reading on 2018-10-09 21:30 is 2.966.
+
+
+Data reading on 2018-10-09 21:36 is 2.966.
+
+
+Data reading on 2018-10-09 21:42 is 2.956.
+
+
+Data reading on 2018-10-09 21:48 is 2.959.
+
+
+Data reading on 2018-10-09 21:54 is 2.949.
+
+
+Data reading on 2018-10-09 22:00 is 2.972.
+
+
+Data reading on 2018-10-09 22:06 is 2.943.
+
+
+Data reading on 2018-10-09 22:12 is 2.969.
+
+
+Data reading on 2018-10-09 22:18 is 2.986.
+
+
+Data reading on 2018-10-09 22:24 is 2.976.
+
+
+Data reading on 2018-10-09 22:30 is 2.999.
+
+
+Data reading on 2018-10-09 22:36 is 2.992.
+
+
+Data reading on 2018-10-09 22:42 is 2.992.
+
+
+Data reading on 2018-10-09 22:48 is 3.015.
+
+
+Data reading on 2018-10-09 22:54 is 3.005.
+
+
+Data reading on 2018-10-09 23:00 is 3.009.
+
+
+Data reading on 2018-10-09 23:06 is 3.018.
+
+
+Data reading on 2018-10-09 23:12 is 3.018.
+
+
+Data reading on 2018-10-09 23:18 is 3.031.
+
+
+Data reading on 2018-10-09 23:24 is 3.061.
+
+
+Data reading on 2018-10-09 23:30 is 3.064.
+
+
+Data reading on 2018-10-09 23:36 is 3.081.
+
+
+Data reading on 2018-10-09 23:42 is 3.123.
+
+
+Data reading on 2018-10-09 23:48 is 3.136.
+
+
+Data reading on 2018-10-09 23:54 is 3.146.
+
+
+Data reading on 2018-10-10 00:00 is 3.176.
+
+
+Data reading on 2018-10-10 00:06 is 3.202.
+
+
+Data reading on 2018-10-10 00:12 is 3.215.
+
+
+Data reading on 2018-10-10 00:18 is 3.235.
+
+
+Data reading on 2018-10-10 00:24 is 3.232.
+
+
+Data reading on 2018-10-10 00:30 is 3.258.
+
+
+Data reading on 2018-10-10 00:36 is 3.251.
+
+
+Data reading on 2018-10-10 00:42 is 3.287.
+
+
+Data reading on 2018-10-10 00:48 is 3.258.
+
+
+Data reading on 2018-10-10 00:54 is 3.287.
+
+
+Data reading on 2018-10-10 01:00 is 3.31.
+
+
+Data reading on 2018-10-10 01:06 is 3.307.
+
+
+Data reading on 2018-10-10 01:12 is 3.297.
+
+
+Data reading on 2018-10-10 01:18 is 3.314.
+
+
+Data reading on 2018-10-10 01:24 is 3.31.
+
+
+Data reading on 2018-10-10 01:30 is 3.274.
+
+
+Data reading on 2018-10-10 01:36 is 3.297.
+
+
+Data reading on 2018-10-10 01:42 is 3.31.
+
+
+Data reading on 2018-10-10 01:48 is 3.301.
+
+
+Data reading on 2018-10-10 01:54 is 3.287.
+
+
+Data reading on 2018-10-10 02:00 is 3.333.
+
+
+Data reading on 2018-10-10 02:06 is 3.317.
+
+
+Data reading on 2018-10-10 02:12 is 3.33.
+
+
+Data reading on 2018-10-10 02:18 is 3.363.
+
+
+Data reading on 2018-10-10 02:24 is 3.346.
+
+
+Data reading on 2018-10-10 02:30 is 3.356.
+
+
+Data reading on 2018-10-10 02:36 is 3.376.
+
+
+Data reading on 2018-10-10 02:42 is 3.389.
+
+
+Data reading on 2018-10-10 02:48 is 3.356.
+
+
+Data reading on 2018-10-10 02:54 is 3.402.
+
+
+Data reading on 2018-10-10 03:00 is 3.373.
+
+
+Data reading on 2018-10-10 03:06 is 3.379.
+
+
+Data reading on 2018-10-10 03:12 is 3.406.
+
+
+Data reading on 2018-10-10 03:18 is 3.406.
+
+
+Data reading on 2018-10-10 03:24 is 3.428.
+
+
+Data reading on 2018-10-10 03:30 is 3.451.
+
+
+Data reading on 2018-10-10 03:36 is 3.501.
+
+
+Data reading on 2018-10-10 03:42 is 3.474.
+
+
+Data reading on 2018-10-10 03:48 is 3.537.
+
+
+Data reading on 2018-10-10 03:54 is 3.524.
+
+
+Data reading on 2018-10-10 04:00 is 3.579.
+
+
+Data reading on 2018-10-10 04:06 is 3.586.
+
+
+Data reading on 2018-10-10 04:12 is 3.547.
+
+
+Data reading on 2018-10-10 04:18 is 3.609.
+
+
+Data reading on 2018-10-10 04:24 is 3.596.
+
+
+Data reading on 2018-10-10 04:30 is 3.599.
+
+
+Data reading on 2018-10-10 04:36 is 3.606.
+
+
+Data reading on 2018-10-10 04:42 is 3.576.
+
+
+Data reading on 2018-10-10 04:48 is 3.57.
+
+
+Data reading on 2018-10-10 04:54 is 3.56.
+
+
+Data reading on 2018-10-10 05:00 is 3.579.
+
+
+Data reading on 2018-10-10 05:06 is 3.527.
+
+
+Data reading on 2018-10-10 05:12 is 3.514.
+
+
+Data reading on 2018-10-10 05:18 is 3.465.
+
+
+Data reading on 2018-10-10 05:24 is 3.504.
+
+
+Data reading on 2018-10-10 05:30 is 3.458.
+
+
+Data reading on 2018-10-10 05:36 is 3.458.
+
+
+Data reading on 2018-10-10 05:42 is 3.415.
+
+
+Data reading on 2018-10-10 05:48 is 3.491.
+
+
+Data reading on 2018-10-10 05:54 is 3.474.
+
+
+Data reading on 2018-10-10 06:00 is 3.474.
+
+
+Data reading on 2018-10-10 06:06 is 3.53.
+
+
+Data reading on 2018-10-10 06:12 is 3.537.
+
+
+Data reading on 2018-10-10 06:18 is 3.54.
+
+
+Data reading on 2018-10-10 06:24 is 3.599.
+
+
+Data reading on 2018-10-10 06:30 is 3.51.
+
+
+Data reading on 2018-10-10 06:36 is 3.609.
+
+
+Data reading on 2018-10-10 06:42 is 3.681.
+
+
+Data reading on 2018-10-10 06:48 is 3.76.
+
+
+Data reading on 2018-10-10 06:54 is 3.717.
+
+
+Data reading on 2018-10-10 07:00 is 3.753.
+
+
+Data reading on 2018-10-10 07:06 is 3.793.
+
+
+Data reading on 2018-10-10 07:12 is 3.691.
+
+
+Data reading on 2018-10-10 07:18 is 3.661.
+
+
+Data reading on 2018-10-10 07:24 is 3.583.
+
+
+Data reading on 2018-10-10 07:30 is 3.596.
+
+
+Data reading on 2018-10-10 07:36 is 3.56.
+
+
+Data reading on 2018-10-10 07:42 is 3.55.
+
+
+Data reading on 2018-10-10 07:48 is 3.409.
+
+
+Data reading on 2018-10-10 07:54 is 3.419.
+
+
+Data reading on 2018-10-10 08:00 is 3.428.
+
+
+Data reading on 2018-10-10 08:06 is 3.366.
+
+
+Data reading on 2018-10-10 08:12 is 3.383.
+
+
+Data reading on 2018-10-10 08:18 is 3.353.
+
+
+Data reading on 2018-10-10 08:24 is 3.369.
+
+
+Data reading on 2018-10-10 08:30 is 3.369.
+
+
+Data reading on 2018-10-10 08:36 is 3.419.
+
+
+Data reading on 2018-10-10 08:42 is 3.428.
+
+
+Data reading on 2018-10-10 08:48 is 3.419.
+
+
+Data reading on 2018-10-10 08:54 is 3.422.
+
+
+Data reading on 2018-10-10 09:00 is 3.435.
+
+
+Data reading on 2018-10-10 09:06 is 3.399.
+
+
+Data reading on 2018-10-10 09:12 is 3.432.
+
+
+Data reading on 2018-10-10 09:18 is 3.356.
+
+
+Data reading on 2018-10-10 09:24 is 3.412.
+
+
+Data reading on 2018-10-10 09:30 is 3.346.
+
+
+Data reading on 2018-10-10 09:36 is 3.346.
+
+
+Data reading on 2018-10-10 09:42 is 3.34.
+
+
+Data reading on 2018-10-10 09:48 is 3.346.
+
+
+Data reading on 2018-10-10 09:54 is 3.356.
+
+
+Data reading on 2018-10-10 10:00 is 3.373.
+
+
+Data reading on 2018-10-10 10:06 is 3.33.
+
+
+Data reading on 2018-10-10 10:12 is 3.402.
+
+
+Data reading on 2018-10-10 10:18 is 3.386.
+
+
+Data reading on 2018-10-10 10:24 is 3.422.
+
+
+Data reading on 2018-10-10 10:30 is 3.468.
+
+
+Data reading on 2018-10-10 10:36 is 3.471.
+
+
+Data reading on 2018-10-10 10:42 is 3.478.
+
+
+Data reading on 2018-10-10 10:48 is 3.55.
+
+
+Data reading on 2018-10-10 10:54 is 3.451.
+
+
+Data reading on 2018-10-10 11:00 is 3.484.
+
+
+Data reading on 2018-10-10 11:06 is 3.419.
+
+
+Data reading on 2018-10-10 11:12 is 3.386.
+
+
+Data reading on 2018-10-10 11:18 is 3.389.
+
+
+Data reading on 2018-10-10 11:24 is 3.465.
+
+
+Data reading on 2018-10-10 11:30 is 3.386.
+
+
+Data reading on 2018-10-10 11:36 is 3.488.
+
+
+Data reading on 2018-10-10 11:42 is 3.448.
+
+
+Data reading on 2018-10-10 11:48 is 3.471.
+
+
+Data reading on 2018-10-10 11:54 is 3.432.
+
+
+Data reading on 2018-10-10 12:00 is 3.415.
+
+
+Data reading on 2018-10-10 12:06 is 3.451.
+
+
+Data reading on 2018-10-10 12:12 is 3.422.
+
+
+Data reading on 2018-10-10 12:18 is 3.442.
+
+
+Data reading on 2018-10-10 12:24 is 3.435.
+
+
+Data reading on 2018-10-10 12:30 is 3.497.
+
+
+Data reading on 2018-10-10 12:36 is 3.468.
+
+
+Data reading on 2018-10-10 12:42 is 3.537.
+
+
+Data reading on 2018-10-10 12:48 is 3.514.
+
+
+Data reading on 2018-10-10 12:54 is 3.57.
+
+
+Data reading on 2018-10-10 13:00 is 3.566.
+
+
+Data reading on 2018-10-10 13:06 is 3.648.
+
+
+Data reading on 2018-10-10 13:12 is 3.563.
+
+
+Data reading on 2018-10-10 13:18 is 3.675.
+
+
+Data reading on 2018-10-10 13:24 is 3.599.
+
+
+Data reading on 2018-10-10 13:30 is 3.704.
+
+
+Data reading on 2018-10-10 13:36 is 3.698.
+
+
+Data reading on 2018-10-10 13:42 is 3.763.
+
+
+Data reading on 2018-10-10 13:48 is 3.688.
+
+
+Data reading on 2018-10-10 13:54 is 3.825.
+
+
+Data reading on 2018-10-10 14:00 is 3.724.
+
+
+Data reading on 2018-10-10 14:06 is 3.858.
+
+
+Data reading on 2018-10-10 14:12 is 3.881.
+
+
+Data reading on 2018-10-10 14:18 is 3.812.
+
+
+Data reading on 2018-10-10 14:24 is 3.898.
+
+
+Data reading on 2018-10-10 14:30 is 3.871.
+
+
+Data reading on 2018-10-10 14:36 is 3.934.
+
+
+Data reading on 2018-10-10 14:42 is 3.806.
+
+
+Data reading on 2018-10-10 14:48 is 3.947.
+
+
+Data reading on 2018-10-10 14:54 is 3.891.
+
+
+Data reading on 2018-10-10 15:00 is 3.967.
+
+
+Data reading on 2018-10-10 15:06 is 3.98.
+
+
+Data reading on 2018-10-10 15:12 is 3.907.
+
+
+Data reading on 2018-10-10 15:18 is 4.035.
+
+
+Data reading on 2018-10-10 15:24 is 4.012.
+
+
+Data reading on 2018-10-10 15:30 is 3.996.
+
+
+Data reading on 2018-10-10 15:36 is 4.042.
+
+
+Data reading on 2018-10-10 15:42 is 4.154.
+
+
+Data reading on 2018-10-10 15:48 is 4.012.
+
+
+Data reading on 2018-10-10 15:54 is 4.137.
+
+
+Data reading on 2018-10-10 16:00 is 4.078.
+
+
+Data reading on 2018-10-10 16:06 is 4.003.
+
+
+Data reading on 2018-10-10 16:12 is 4.065.
+
+
+Data reading on 2018-10-10 16:18 is 4.016.
+
+
+Data reading on 2018-10-10 16:24 is 3.976.
+
+
+Data reading on 2018-10-10 16:30 is 4.111.
+
+
+Data reading on 2018-10-10 16:36 is 4.081.
+
+
+Data reading on 2018-10-10 16:42 is 4.16.
+
+
+Data reading on 2018-10-10 16:48 is 4.098.
+
+
+Data reading on 2018-10-10 16:54 is 4.094.
+
+
+Data reading on 2018-10-10 17:00 is 4.075.
+
+
+Data reading on 2018-10-10 17:06 is 4.226.
+
+
+Data reading on 2018-10-10 17:12 is 4.163.
+
+
+Data reading on 2018-10-10 17:18 is 4.199.
+
+
+Data reading on 2018-10-10 17:24 is 4.37.
+
+
+Data reading on 2018-10-10 17:30 is 4.672.
+WARNING: The change in water level is 0.3019999999999996 (greater than 0.25).
+
+
+Data reading on 2018-10-10 17:36 is 4.951.
+WARNING: The change in water level is 0.2789999999999999 (greater than 0.25).
+
+
+Data reading on 2018-10-10 17:42 is 5.591.
+WARNING: The change in water level is 0.6400000000000006 (greater than 0.25).
+WARNING: The current water level is 5.591 (greater than 5).
+
+
+Data reading on 2018-10-10 17:48 is 5.958.
+WARNING: The change in water level is 0.367 (greater than 0.25).
+WARNING: The current water level is 5.958 (greater than 5).
+
+
+Data reading on 2018-10-10 17:54 is 6.404.
+WARNING: The change in water level is 0.44599999999999973 (greater than 0.25).
+WARNING: The current water level is 6.404 (greater than 5).
+
+
+Data reading on 2018-10-10 18:00 is 6.575.
+WARNING: The current water level is 6.575 (greater than 5).
+
+
+Data reading on 2018-10-10 18:06 is 6.647.
+WARNING: The current water level is 6.647 (greater than 5).
+
+
+Data reading on 2018-10-10 18:12 is 6.503.
+WARNING: The current water level is 6.503 (greater than 5).
+
+
+WARNING: No water level reading on 2018-10-10 18:18
+
+
+Data reading on 2018-10-10 18:24 is 6.309.
+WARNING: The current water level is 6.309 (greater than 5).
+
+
+Data reading on 2018-10-10 18:30 is 6.024.
+WARNING: The current water level is 6.024 (greater than 5).
+
+
+Data reading on 2018-10-10 18:36 is 5.725.
+WARNING: The current water level is 5.725 (greater than 5).
+
+
+Data reading on 2018-10-10 18:42 is 5.699.
+WARNING: The current water level is 5.699 (greater than 5).
+
+
+Data reading on 2018-10-10 18:48 is 5.449.
+WARNING: The current water level is 5.449 (greater than 5).
+
+
+Data reading on 2018-10-10 18:54 is 5.338.
+WARNING: The current water level is 5.338 (greater than 5).
+
+
+Data reading on 2018-10-10 19:00 is 5.22.
+WARNING: The current water level is 5.22 (greater than 5).
+
+
+Data reading on 2018-10-10 19:06 is 5.0.
+
+
+Data reading on 2018-10-10 19:12 is 4.79.
+
+
+Data reading on 2018-10-10 19:18 is 4.731.
+
+
+Data reading on 2018-10-10 19:24 is 4.61.
+
+
+Data reading on 2018-10-10 19:30 is 4.583.
+
+
+Data reading on 2018-10-10 19:36 is 4.603.
+
+
+Data reading on 2018-10-10 19:42 is 4.623.
+
+
+Data reading on 2018-10-10 19:48 is 4.528.
+
+
+Data reading on 2018-10-10 19:54 is 4.455.
+
+
+Data reading on 2018-10-10 20:00 is 4.449.
+
+
+Data reading on 2018-10-10 20:06 is 4.436.
+
+
+Data reading on 2018-10-10 20:12 is 4.459.
+
+
+Data reading on 2018-10-10 20:18 is 4.505.
+
+
+Data reading on 2018-10-10 20:24 is 4.475.
+
+
+Data reading on 2018-10-10 20:30 is 4.426.
+
+
+Data reading on 2018-10-10 20:36 is 4.393.
+
+
+Data reading on 2018-10-10 20:42 is 4.36.
+
+
+Data reading on 2018-10-10 20:48 is 4.314.
+
+
+Data reading on 2018-10-10 20:54 is 4.275.
+
+
+Data reading on 2018-10-10 21:00 is 4.259.
+
+
+Data reading on 2018-10-10 21:06 is 4.229.
+
+
+Data reading on 2018-10-10 21:12 is 4.249.
+
+
+Data reading on 2018-10-10 21:18 is 4.245.
+
+
+Data reading on 2018-10-10 21:24 is 4.285.
+
+
+Data reading on 2018-10-10 21:30 is 4.249.
+
+
+Data reading on 2018-10-10 21:36 is 4.232.
+
+
+Data reading on 2018-10-10 21:42 is 4.216.
+
+
+Data reading on 2018-10-10 21:48 is 4.196.
+
+
+Data reading on 2018-10-10 21:54 is 4.203.
+
+
+Data reading on 2018-10-10 22:00 is 4.147.
+
+
+Data reading on 2018-10-10 22:06 is 4.183.
+
+
+Data reading on 2018-10-10 22:12 is 4.173.
+
+
+Data reading on 2018-10-10 22:18 is 4.163.
+
+
+Data reading on 2018-10-10 22:24 is 4.16.
+
+
+Data reading on 2018-10-10 22:30 is 4.173.
+
+
+Data reading on 2018-10-10 22:36 is 4.16.
+
+
+Data reading on 2018-10-10 22:42 is 4.173.
+
+
+Data reading on 2018-10-10 22:48 is 4.219.
+
+
+Data reading on 2018-10-10 22:54 is 4.209.
+
+
+Data reading on 2018-10-10 23:00 is 4.242.
+
+
+Data reading on 2018-10-10 23:06 is 4.268.
+
+
+Data reading on 2018-10-10 23:12 is 4.255.
+
+
+Data reading on 2018-10-10 23:18 is 4.268.
+
+
+Data reading on 2018-10-10 23:24 is 4.298.
+
+
+Data reading on 2018-10-10 23:30 is 4.298.
+
+
+Data reading on 2018-10-10 23:36 is 4.295.
+
+
+Data reading on 2018-10-10 23:42 is 4.272.
+
+
+Data reading on 2018-10-10 23:48 is 4.229.
+
+
+Data reading on 2018-10-10 23:54 is 4.229.
+
+
+Data reading on 2018-10-11 00:00 is 4.213.
+
+
+Data reading on 2018-10-11 00:06 is 4.173.
+
+
+Data reading on 2018-10-11 00:12 is 4.167.
+
+
+Data reading on 2018-10-11 00:18 is 4.14.
+
+
+Data reading on 2018-10-11 00:24 is 4.072.
+
+
+Data reading on 2018-10-11 00:30 is 4.022.
+
+
+Data reading on 2018-10-11 00:36 is 3.999.
+
+
+Data reading on 2018-10-11 00:42 is 3.973.
+
+
+Data reading on 2018-10-11 00:48 is 3.96.
+
+
+Data reading on 2018-10-11 00:54 is 3.973.
+
+
+Data reading on 2018-10-11 01:00 is 3.934.
+
+
+Data reading on 2018-10-11 01:06 is 3.953.
+
+
+Data reading on 2018-10-11 01:12 is 3.944.
+
+
+Data reading on 2018-10-11 01:18 is 3.93.
+
+
+Data reading on 2018-10-11 01:24 is 3.944.
+
+
+Data reading on 2018-10-11 01:30 is 3.917.
+
+
+Data reading on 2018-10-11 01:36 is 3.934.
+
+
+Data reading on 2018-10-11 01:42 is 3.911.
+
+
+Data reading on 2018-10-11 01:48 is 3.904.
+
+
+Data reading on 2018-10-11 01:54 is 3.865.
+
+
+Data reading on 2018-10-11 02:00 is 3.871.
+
+
+Data reading on 2018-10-11 02:06 is 3.842.
+
+
+Data reading on 2018-10-11 02:12 is 3.835.
+
+
+Data reading on 2018-10-11 02:18 is 3.819.
+
+
+Data reading on 2018-10-11 02:24 is 3.786.
+
+
+Data reading on 2018-10-11 02:30 is 3.773.
+
+
+Data reading on 2018-10-11 02:36 is 3.74.
+
+
+Data reading on 2018-10-11 02:42 is 3.717.
+
+
+Data reading on 2018-10-11 02:48 is 3.698.
+
+
+Data reading on 2018-10-11 02:54 is 3.671.
+
+
+Data reading on 2018-10-11 03:00 is 3.635.
+
+
+Data reading on 2018-10-11 03:06 is 3.612.
+
+
+Data reading on 2018-10-11 03:12 is 3.593.
+
+
+Data reading on 2018-10-11 03:18 is 3.566.
+
+
+Data reading on 2018-10-11 03:24 is 3.573.
+
+
+Data reading on 2018-10-11 03:30 is 3.517.
+
+
+Data reading on 2018-10-11 03:36 is 3.527.
+
+
+Data reading on 2018-10-11 03:42 is 3.497.
+
+
+Data reading on 2018-10-11 03:48 is 3.474.
+
+
+Data reading on 2018-10-11 03:54 is 3.474.
+
+
+Data reading on 2018-10-11 04:00 is 3.442.
+
+
+Data reading on 2018-10-11 04:06 is 3.435.
+
+
+Data reading on 2018-10-11 04:12 is 3.419.
+
+
+Data reading on 2018-10-11 04:18 is 3.402.
+
+
+Data reading on 2018-10-11 04:24 is 3.389.
+
+
+Data reading on 2018-10-11 04:30 is 3.369.
+
+
+Data reading on 2018-10-11 04:36 is 3.363.
+
+
+Data reading on 2018-10-11 04:42 is 3.346.
+
+
+Data reading on 2018-10-11 04:48 is 3.32.
+
+
+Data reading on 2018-10-11 04:54 is 3.291.
+
+
+Data reading on 2018-10-11 05:00 is 3.268.
+
+
+Data reading on 2018-10-11 05:06 is 3.235.
+
+
+Data reading on 2018-10-11 05:12 is 3.225.
+
+
+Data reading on 2018-10-11 05:18 is 3.199.
+
+
+Data reading on 2018-10-11 05:24 is 3.176.
+
+
+Data reading on 2018-10-11 05:30 is 3.159.
+
+
+Data reading on 2018-10-11 05:36 is 3.123.
+
+
+Data reading on 2018-10-11 05:42 is 3.11.
+
+
+Data reading on 2018-10-11 05:48 is 3.077.
+
+
+Data reading on 2018-10-11 05:54 is 3.074.
+
+
+Data reading on 2018-10-11 06:00 is 3.041.
+
+
+Data reading on 2018-10-11 06:06 is 3.025.
+
+
+Data reading on 2018-10-11 06:12 is 3.009.
+
+
+Data reading on 2018-10-11 06:18 is 2.989.
+
+
+Data reading on 2018-10-11 06:24 is 2.969.
+
+
+Data reading on 2018-10-11 06:30 is 2.953.
+
+
+Data reading on 2018-10-11 06:36 is 2.927.
+
+
+Data reading on 2018-10-11 06:42 is 2.91.
+
+
+Data reading on 2018-10-11 06:48 is 2.897.
+
+
+Data reading on 2018-10-11 06:54 is 2.867.
+
+
+Data reading on 2018-10-11 07:00 is 2.854.
+
+
+Data reading on 2018-10-11 07:06 is 2.828.
+
+
+Data reading on 2018-10-11 07:12 is 2.808.
+
+
+Data reading on 2018-10-11 07:18 is 2.785.
+
+
+Data reading on 2018-10-11 07:24 is 2.769.
+
+
+Data reading on 2018-10-11 07:30 is 2.743.
+
+
+Data reading on 2018-10-11 07:36 is 2.717.
+
+
+Data reading on 2018-10-11 07:42 is 2.697.
+
+
+Data reading on 2018-10-11 07:48 is 2.674.
+
+
+Data reading on 2018-10-11 07:54 is 2.631.
+
+
+Data reading on 2018-10-11 08:00 is 2.602.
+
+
+Data reading on 2018-10-11 08:06 is 2.566.
+
+
+Data reading on 2018-10-11 08:12 is 2.526.
+
+
+Data reading on 2018-10-11 08:18 is 2.503.
+
+
+Data reading on 2018-10-11 08:24 is 2.451.
+
+
+Data reading on 2018-10-11 08:30 is 2.441.
+
+
+Data reading on 2018-10-11 08:36 is 2.408.
+
+
+Data reading on 2018-10-11 08:42 is 2.385.
+
+
+Data reading on 2018-10-11 08:48 is 2.359.
+
+
+Data reading on 2018-10-11 08:54 is 2.343.
+
+
+Data reading on 2018-10-11 09:00 is 2.31.
+
+
+Data reading on 2018-10-11 09:06 is 2.287.
+
+
+Data reading on 2018-10-11 09:12 is 2.267.
+
+
+Data reading on 2018-10-11 09:18 is 2.247.
+
+
+Data reading on 2018-10-11 09:24 is 2.241.
+
+
+Data reading on 2018-10-11 09:30 is 2.215.
+
+
+Data reading on 2018-10-11 09:36 is 2.198.
+
+
+Data reading on 2018-10-11 09:42 is 2.185.
+
+
+Data reading on 2018-10-11 09:48 is 2.169.
+
+
+Data reading on 2018-10-11 09:54 is 2.136.
+
+
+Data reading on 2018-10-11 10:00 is 2.129.
+
+
+Data reading on 2018-10-11 10:06 is 2.1.
+
+
+Data reading on 2018-10-11 10:12 is 2.09.
+
+
+Data reading on 2018-10-11 10:18 is 2.057.
+
+
+Data reading on 2018-10-11 10:24 is 2.051.
+
+
+Data reading on 2018-10-11 10:30 is 2.021.
+
+
+Data reading on 2018-10-11 10:36 is 2.018.
+
+
+Data reading on 2018-10-11 10:42 is 1.995.
+
+
+Data reading on 2018-10-11 10:48 is 1.978.
+
+
+Data reading on 2018-10-11 10:54 is 1.962.
+
+
+Data reading on 2018-10-11 11:00 is 1.949.
+
+
+Data reading on 2018-10-11 11:06 is 1.926.
+
+
+Data reading on 2018-10-11 11:12 is 1.919.
+
+
+Data reading on 2018-10-11 11:18 is 1.906.
+
+
+Data reading on 2018-10-11 11:24 is 1.896.
+
+
+Data reading on 2018-10-11 11:30 is 1.883.
+
+
+Data reading on 2018-10-11 11:36 is 1.87.
+
+
+Data reading on 2018-10-11 11:42 is 1.854.
+
+
+Data reading on 2018-10-11 11:48 is 1.841.
+
+
+Data reading on 2018-10-11 11:54 is 1.824.
+
+
+Data reading on 2018-10-11 12:00 is 1.818.
+
+
+Data reading on 2018-10-11 12:06 is 1.801.
+
+
+Data reading on 2018-10-11 12:12 is 1.798.
+
+
+Data reading on 2018-10-11 12:18 is 1.775.
+
+
+Data reading on 2018-10-11 12:24 is 1.768.
+
+
+Data reading on 2018-10-11 12:30 is 1.745.
+
+
+Data reading on 2018-10-11 12:36 is 1.736.
+
+
+Data reading on 2018-10-11 12:42 is 1.719.
+
+
+Data reading on 2018-10-11 12:48 is 1.713.
+
+
+Data reading on 2018-10-11 12:54 is 1.69.
+
+
+Data reading on 2018-10-11 13:00 is 1.686.
+
+
+Data reading on 2018-10-11 13:06 is 1.68.
+
+
+Data reading on 2018-10-11 13:12 is 1.67.
+
+
+Data reading on 2018-10-11 13:18 is 1.663.
+
+
+Data reading on 2018-10-11 13:24 is 1.657.
+
+
+Data reading on 2018-10-11 13:30 is 1.663.
+
+
+Data reading on 2018-10-11 13:36 is 1.667.
+
+
+Data reading on 2018-10-11 13:42 is 1.66.
+
+
+Data reading on 2018-10-11 13:48 is 1.663.
+
+
+Data reading on 2018-10-11 13:54 is 1.663.
+
+
+Data reading on 2018-10-11 14:00 is 1.654.
+
+
+Data reading on 2018-10-11 14:06 is 1.67.
+
+
+Data reading on 2018-10-11 14:12 is 1.654.
+
+
+Data reading on 2018-10-11 14:18 is 1.657.
+
+
+Data reading on 2018-10-11 14:24 is 1.65.
+
+
+Data reading on 2018-10-11 14:30 is 1.654.
+
+
+Data reading on 2018-10-11 14:36 is 1.654.
+
+
+Data reading on 2018-10-11 14:42 is 1.637.
+
+
+Data reading on 2018-10-11 14:48 is 1.644.
+
+
+Data reading on 2018-10-11 14:54 is 1.634.
+
+
+Data reading on 2018-10-11 15:00 is 1.644.
+
+
+Data reading on 2018-10-11 15:06 is 1.64.
+
+
+Data reading on 2018-10-11 15:12 is 1.637.
+
+
+Data reading on 2018-10-11 15:18 is 1.644.
+
+
+Data reading on 2018-10-11 15:24 is 1.654.
+
+
+Data reading on 2018-10-11 15:30 is 1.64.
+
+
+Data reading on 2018-10-11 15:36 is 1.621.
+
+
+Data reading on 2018-10-11 15:42 is 1.631.
+
+
+Data reading on 2018-10-11 15:48 is 1.637.
+
+
+Data reading on 2018-10-11 15:54 is 1.657.
+
+
+Data reading on 2018-10-11 16:00 is 1.657.
+
+
+Data reading on 2018-10-11 16:06 is 1.66.
+
+
+Data reading on 2018-10-11 16:12 is 1.673.
+
+
+Data reading on 2018-10-11 16:18 is 1.693.
+
+
+Data reading on 2018-10-11 16:24 is 1.706.
+
+
+Data reading on 2018-10-11 16:30 is 1.719.
+
+
+Data reading on 2018-10-11 16:36 is 1.732.
+
+
+Data reading on 2018-10-11 16:42 is 1.742.
+
+
+Data reading on 2018-10-11 16:48 is 1.755.
+
+
+Data reading on 2018-10-11 16:54 is 1.762.
+
+
+Data reading on 2018-10-11 17:00 is 1.765.
+
+
+Data reading on 2018-10-11 17:06 is 1.781.
+
+
+Data reading on 2018-10-11 17:12 is 1.778.
+
+
+Data reading on 2018-10-11 17:18 is 1.781.
+
+
+Data reading on 2018-10-11 17:24 is 1.778.
+
+
+Data reading on 2018-10-11 17:30 is 1.781.
+
+
+Data reading on 2018-10-11 17:36 is 1.791.
+
+
+Data reading on 2018-10-11 17:42 is 1.801.
+
+
+Data reading on 2018-10-11 17:48 is 1.811.
+
+
+Data reading on 2018-10-11 17:54 is 1.837.
+
+
+Data reading on 2018-10-11 18:00 is 1.834.
+
+
+Data reading on 2018-10-11 18:06 is 1.847.
+
+
+Data reading on 2018-10-11 18:12 is 1.85.
+
+
+Data reading on 2018-10-11 18:18 is 1.86.
+
+
+Data reading on 2018-10-11 18:24 is 1.873.
+
+
+Data reading on 2018-10-11 18:30 is 1.87.
+
+
+Data reading on 2018-10-11 18:36 is 1.883.
+
+
+Data reading on 2018-10-11 18:42 is 1.896.
+
+
+Data reading on 2018-10-11 18:48 is 1.913.
+
+
+Data reading on 2018-10-11 18:54 is 1.926.
+
+
+Data reading on 2018-10-11 19:00 is 1.926.
+
+
+Data reading on 2018-10-11 19:06 is 1.939.
+
+
+Data reading on 2018-10-11 19:12 is 1.955.
+
+
+Data reading on 2018-10-11 19:18 is 1.955.
+
+
+Data reading on 2018-10-11 19:24 is 1.969.
+
+
+Data reading on 2018-10-11 19:30 is 1.969.
+
+
+Data reading on 2018-10-11 19:36 is 1.975.
+
+
+Data reading on 2018-10-11 19:42 is 1.978.
+
+
+Data reading on 2018-10-11 19:48 is 1.982.
+
+
+Data reading on 2018-10-11 19:54 is 1.975.
+
+
+Data reading on 2018-10-11 20:00 is 1.975.
+
+
+Data reading on 2018-10-11 20:06 is 1.969.
+
+
+Data reading on 2018-10-11 20:12 is 1.985.
+
+
+Data reading on 2018-10-11 20:18 is 1.978.
+
+
+Data reading on 2018-10-11 20:24 is 1.991.
+
+
+Data reading on 2018-10-11 20:30 is 1.985.
+
+
+Data reading on 2018-10-11 20:36 is 2.008.
+
+
+Data reading on 2018-10-11 20:42 is 1.998.
+
+
+Data reading on 2018-10-11 20:48 is 2.014.
+
+
+Data reading on 2018-10-11 20:54 is 2.021.
+
+
+Data reading on 2018-10-11 21:00 is 2.037.
+
+
+Data reading on 2018-10-11 21:06 is 2.034.
+
+
+Data reading on 2018-10-11 21:12 is 2.041.
+
+
+Data reading on 2018-10-11 21:18 is 2.047.
+
+
+Data reading on 2018-10-11 21:24 is 2.041.
+
+
+Data reading on 2018-10-11 21:30 is 2.047.
+
+
+Data reading on 2018-10-11 21:36 is 2.041.
+
+
+Data reading on 2018-10-11 21:42 is 2.054.
+
+
+Data reading on 2018-10-11 21:48 is 2.051.
+
+
+Data reading on 2018-10-11 21:54 is 2.044.
+
+
+Data reading on 2018-10-11 22:00 is 2.037.
+
+
+Data reading on 2018-10-11 22:06 is 2.037.
+
+
+Data reading on 2018-10-11 22:12 is 2.034.
+
+
+Data reading on 2018-10-11 22:18 is 2.034.
+
+
+Data reading on 2018-10-11 22:24 is 2.044.
+
+
+Data reading on 2018-10-11 22:30 is 2.041.
+
+
+Data reading on 2018-10-11 22:36 is 2.06.
+
+
+Data reading on 2018-10-11 22:42 is 2.067.
+
+
+Data reading on 2018-10-11 22:48 is 2.08.
+
+
+Data reading on 2018-10-11 22:54 is 2.087.
+
+
+Data reading on 2018-10-11 23:00 is 2.106.
+
+
+Data reading on 2018-10-11 23:06 is 2.123.
+
+
+Data reading on 2018-10-11 23:12 is 2.139.
+
+
+Data reading on 2018-10-11 23:18 is 2.152.
+
+
+Data reading on 2018-10-11 23:24 is 2.156.
+
+
+Data reading on 2018-10-11 23:30 is 2.178.
+
+
+Data reading on 2018-10-11 23:36 is 2.169.
+
+
+Data reading on 2018-10-11 23:42 is 2.175.
+
+
+Data reading on 2018-10-11 23:48 is 2.182.
+
+
+Data reading on 2018-10-11 23:54 is 2.188.
+
+
+Data reading on 2018-10-12 00:00 is 2.192.
+
+
+Data reading on 2018-10-12 00:06 is 2.195.
+
+
+Data reading on 2018-10-12 00:12 is 2.201.
+
+
+Data reading on 2018-10-12 00:18 is 2.198.
+
+
+Data reading on 2018-10-12 00:24 is 2.218.
+
+
