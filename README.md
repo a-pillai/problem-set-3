@@ -17,6 +17,6 @@ The dataset is at: `/blue/bsc4452/share/Class_Files/data/CO-OPS__8729108__wl.csv
  * The metadata can be found [here](https://github.com/CompTools/Class_Files/blob/master/data/CO_OPS__wl_file.md).
 
 ## My submission
-I have provided my answers as both a Jupyter Notebook (`answers_notebook.ipynb`) and a Python script (`answers_script.py`). Additionally, the answers have been provided as a text file if you can not run the script.
+I have provided my answers as both a Jupyter Notebook (`answers_notebook.ipynb`) and a Python script (`answers_script.py`). Additionally, the answers have been provided as a text file (`problem_set_3_answers.txt`) if you can not run the script.
 
 NOTE: When running the script on the command line, I suggest using `python3 answers_script.py | less` to ensure that you can see the output more clearly.
